@@ -1,0 +1,24 @@
+.bg-gradient-blue {
+    background: transparent linear-gradient(80deg,#00a0df,#014168) 0 0 no-repeat padding-box;
+}
+.text-white {
+    color: #fff !important;
+}
+.bg-white {
+    color: #014168;
+}
+.bg-white {
+    background-color: #fff !important;
+}
+#footerCTAs {
+    border-bottom: 1px solid #fff !important;
+}
+.text-dark {
+    color: #014168 !important;
+}
+.bg-light {
+    background-color: #dedede !important;
+}
+section {
+    padding: 60px 0;
+}
